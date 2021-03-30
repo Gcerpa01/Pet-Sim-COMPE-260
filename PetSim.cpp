@@ -6,7 +6,6 @@
  **     Filename:PetSim.cpp
  **
  **       Author:  Gerardo Cerpa
- **        REDID:  819144749
  **
  **  Lab Section:  CompE260
  **     Due Date:  11/30/2020 @ 11:34PM
